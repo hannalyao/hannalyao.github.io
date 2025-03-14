@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Han Yao"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-======
+
 ## Hi there, I'm Han Yao. 👋
 * 🔭 I am a PhD student in **Health Policy & Management** at Chinese Academy of Medical Sciences & Peking Union Medical College [(CAMS&PUMC)](https://www.pumc.edu.cn/) from 2022/09, advised by Prof. [Yuanli Liu](http://pumc.teacher.360eol.com/teacherBasic/preview?teacherId=4919&previewCode=). 
 
