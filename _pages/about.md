@@ -9,25 +9,34 @@ redirect_from:
 
 About Me
 ======
-* I am a PhD student at Chinese Academy of Medical Sciences & Peking Union Medical College [(CAMS&PUMC)](https://www.pumc.edu.cn/) from 2022/09, under the supervision of Prof. [Yuanli Liu](http://pumc.teacher.360eol.com/teacherBasic/preview?teacherId=4919&previewCode=). Major in health policy and management.
-* I received Bachelor of Science degree at Minzu University of China [(MUC)](https://www.muc.edu.cn/) in 2022. Major in applied statistics.
+## Hi there, I'm Han Yao. 👋
+* 🔭 I am a PhD student in **Health Policy & Management** at Chinese Academy of Medical Sciences & Peking Union Medical College [(CAMS&PUMC)](https://www.pumc.edu.cn/) from 2022/09, advised by Prof. [Yuanli Liu](http://pumc.teacher.360eol.com/teacherBasic/preview?teacherId=4919&previewCode=). 
+
+* 🎓 I received BSc in **Applied Statistics** at Minzu University of China [(MUC)](https://www.muc.edu.cn/) in 2022. 
+
+* 🌱 My work focuses on healthcare data governance (ownership, circulation, revenue distribution…) and health system coordination (healthcare financing, medicine and provision reforms), aiming to optimize healthcare resource allocation and social welfare impact 🏥⚖️.
+
+* 🌋 Bilingual thinker (EN/中文) embracing cross-disciplinary collaborations — let’s discuss ideas on digital health, policy-tech interfaces, or data-driven healthcare solutions! 📬 Email me: yaohan@student.pumc.edu.cn
 
 
-Awards and Honors
+
+
+🔖 Awards and Honors
 ------
 -   National Scholarship for Doctoral Students (2024)
--   NHC · Illumina Public Health Education Scholarship (2024)
+-   National Health Commission · Illumina Public Health Education Scholarship (2024)
 -   Roche Education Scholarship (2023)
 -   First Prize in the Health and Medical Big Data Theme Competition of the 2nd National Digital Health Innovation Application Competition (2024)
 -   Third Prize in the 2024 National Smart Medical Insurance Competition (2024)
--   First Prize in the National College Student Market Research and Analysis Competition (2022)
--   Second Prize in the Siemens Cup China Intelligent Manufacturing Challenge (2021)
--   Third Prize in the National College Student Robotics Competition RoboMaster Mech Master Duel Competition (2021)
+-   First Prize in the National College Student Market Research and Analysis Competition (2021)
+-   First Prize in Huawei Financial Elite Challenge North China Division (2020)
+-   Second Prize in the Siemens Cup China Intelligent Manufacturing Challenge (2020)
+-   Third Prize in the National College Student Robotics Competition RoboMaster Mech Master Duel Competition (2020)
 
 
-Publications
+📈 Publications
 ------
-**English Articles**
+**⭐ English Articles**
 
 1.  **Yao H**, Liao Z, Zhang X, Zhang X, Li M, You L and Liu Y (2024) A comprehensive survey of the clinical trial landscape on digital therapeutics. *Heliyon*. 2024 Aug 30;10(16). [https://doi.org/10.1016/j.heliyon.2024.e36115](https://doi.org/10.1016/j.heliyon.2024.e36115)
         
@@ -41,7 +50,7 @@ Publications
 
    
 
-**Chinese Articles**
+**⭐ Chinese Articles**
 1.  **Yao H**, Yu Q, Ma Z, Liu Y. Progress and Challenges of Digital Formalism in Medical Insurance Governance [J]. China Medical Insurance, 2024, (07):51-61.
 1.  **Yao H**, Liu Y. Technological Transformation and Social Challenges of the Metaverse in the Health System [J]. Medicine and Society, 2024, 37(02):7-11.
 1.  **Yao H**, Meng X, Lu T, Wang B, Liu Y. Research on Hospital Information Construction under the Trend of Intelligent Technology [J]. Chinese Hospital Management, 2023, 43(12):60-63.
@@ -55,10 +64,10 @@ Publications
 
 
 
-Practical Experience
+🧑‍💻 Practical Experience
 ------
--   2023.05 - 2023.08      JD.com- JD Health- Internet Medical Department     **Intern (student)**
--   2024.02 - Present      China National Health Development Research Center    **Intern Researcher**
+-   2023.05 - 2023.08      JD.com- [JD Health](https://www.jdh.com/)- Internet Medical Department     **Intern (student)**
+-   2024.02 - Present      China National Health Development Research Center [(CNHDRC)](http://www.nhei.cn/)    **Intern Researcher**
 
 
 
