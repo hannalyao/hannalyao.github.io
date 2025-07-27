@@ -13,10 +13,10 @@ main:
     url: "/#publications"
     
   - title: "Awards and Honors"
-    url: "/#awards-and-honors"
+    url: "/#awards"
     
   - title: "Practical Experience"
-    url: "/#practical-experience"
+    url: "/#experience"
     
   - title: "My Skill Set"
-    url: "/#my-skill-set"
+    url: "/#skills"
