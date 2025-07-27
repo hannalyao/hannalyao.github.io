@@ -6,17 +6,17 @@
 
 main:
   - title: "About me"
-    url: "/About-me"
+    url: "/#About-me"
     
   - title: "Publications"
-    url: "/Publications"
+    url: "/## Publications"
 
   - title: "Awards and Honors"
-    url: "/Awards and Honors"    
+    url: "/## Awards and Honors"    
 
   - title: "Practical Experience"
-    url: "/Practical Experience"   
+    url: "/## Practical Experience"   
     
   - title: "My Skill Set"
-    url: "/My Skill Set"
+    url: "/## My Skill Set"
         
