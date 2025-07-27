@@ -23,7 +23,7 @@ redirect_from:
 
 
 ## 📈 Publications
-------
+
 **⭐ English Articles**
 
 1.  **Yao H**, Liao Z, Zhang X, Zhang X, Li M, You L and Liu Y (2024) A comprehensive survey of the clinical trial landscape on digital therapeutics. *Heliyon*. 2024 Aug 30;10(16). 
@@ -60,7 +60,7 @@ redirect_from:
 
 
 ## 🔖 Awards and Honors
------- 
+
 -   *2024.12*  First Prize in the Health and Medical Big Data Theme Competition of the 2nd National Digital Health Innovation Application Competition
 -   *2024.10*  Third Prize in the 2024 National Smart Medical Insurance Competition
 -   *2024.10*  National Scholarship for Doctoral Students
@@ -74,13 +74,13 @@ redirect_from:
 
 
 ## 🧑‍💻 Practical Experience
-------
+
 -   *2023.05 - 2023.08*      JD.com- [JD Health](https://www.jdh.com/)- Internet Medical Department     **Intern (student)**
 -   *2024.02 - Present*      China National Health Development Research Center [(CNHDRC)](http://www.nhei.cn/)    **Intern Researcher**
 
 
 ## 🕹️ My Skill Set
-------
+
 - **Programming:** [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
