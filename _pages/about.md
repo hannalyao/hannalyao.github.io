@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-📈 Publications
+## 📈 Publications
 ------
 **⭐ English Articles**
 
@@ -59,7 +59,7 @@ redirect_from:
 
 
 
-🔖 Awards and Honors
+## 🔖 Awards and Honors
 ------ 
 -   *2024.12*  First Prize in the Health and Medical Big Data Theme Competition of the 2nd National Digital Health Innovation Application Competition
 -   *2024.10*  Third Prize in the 2024 National Smart Medical Insurance Competition
@@ -73,13 +73,13 @@ redirect_from:
 
 
 
-🧑‍💻 Practical Experience
+## 🧑‍💻 Practical Experience
 ------
 -   *2023.05 - 2023.08*      JD.com- [JD Health](https://www.jdh.com/)- Internet Medical Department     **Intern (student)**
 -   *2024.02 - Present*      China National Health Development Research Center [(CNHDRC)](http://www.nhei.cn/)    **Intern Researcher**
 
 
-🕹️ My Skill Set
+## 🕹️ My Skill Set
 ------
 - **Programming:** [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -88,7 +88,6 @@ redirect_from:
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) 
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 - **Academic Training:** *Mathematical Analysis*, *Advanced Mathematics*, *Spatial Analytic Geometry*, *Probability Theory*, *Applied Mathematical Statistics*, *Applied Stochastic Processes*, *Operations Research*, *Computational Methods*, *Ordinary Differential Equations*, *Health Systems*, *Medical Statistics*, etc.
